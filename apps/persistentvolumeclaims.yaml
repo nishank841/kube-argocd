@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/nishank841/kube-helm.git
     targetRevision: main
-    path: manifests/persistence-volume-claims
+    path: manifests/persistent-volume-claims
 
   destination:
     server: https://kubernetes.default.svc
