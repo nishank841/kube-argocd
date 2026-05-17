@@ -8,7 +8,7 @@ spec:
 
   source:
     repoURL: https://github.com/nishank841/kube-argocd.git
-    targetRevision: HEAD
+    targetRevision: main
     path: apps
 
   destination:
